@@ -1,0 +1,36 @@
+    .container {
+      width: 300px;
+      margin: 50px auto;
+      font-family: Arial, sans-serif;
+    }
+
+    .input-box {
+      margin-bottom: 20px;
+      position: relative;
+    }
+
+    .input-box img {
+      width: 20px;
+      height: 20px;
+      position: absolute;
+      left: 5px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    .input-box input {
+      width: 100%;
+      padding: 10px 10px 10px 30px;
+      box-sizing: border-box;
+    }
+
+    h1 {
+      text-align: center;
+    }
+  body {
+    background-color: #72aee6;
+  }
+  button { 
+    width: 300px; 
+    height: 50px; 
+  }
